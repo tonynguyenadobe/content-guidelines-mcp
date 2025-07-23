@@ -1,0 +1,27 @@
+{
+  "model": "ContentGuideline",
+  "version": "1.0",
+  "metadata": {
+    "title": "Inclusive UX Writing",
+    "url": "https://spectrum.corp.adobe.com/page/inclusive-ux-writing/",
+    "category": "Foundations",
+    "tags": [
+      "inclusive language",
+      "accessibility",
+      "UX writing",
+      "content design"
+    ],
+    "lastUpdated": "2025-07-23"
+  },
+  "content": {
+    "summary": "Guidelines for writing inclusive, respectful, and accessible content for all users.",
+    "principles": [],
+    "guidelines": [],
+    "relatedLinks": [
+      {
+        "title": "Inclusive UX Writing \u2013 Spectrum",
+        "url": "https://spectrum.corp.adobe.com/page/inclusive-ux-writing/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "model": "ContentGuideline",
+  "version": "1.0",
+  "metadata": {
+    "title": "Voice and Tone",
+    "url": "https://spectrum.corp.adobe.com/page/voice-and-tone/",
+    "category": "Foundations",
+    "tags": [
+      "voice",
+      "tone",
+      "UX writing",
+      "content design"
+    ],
+    "lastUpdated": ""
+  },
+  "content": {
+    "summary": "Defines Adobe’s unified product voice and how tone adapts based on user context and emotion.",
+    "principles": [
+      "Speak with one voice across all products.",
+      "Adapt tone based on situational context and user emotion.",
+      "Ensure language aligns with visual and interaction design."
+    ],
+    "guidelines": [
+      {
+        "title": "Voice",
+        "description": "Our voice reflects our design principles and ensures consistency across products.",
+        "do": [
+          "Be clear and understandable.",
+          "Use friendly, honest, and responsible language.",
+          "Keep content concise and focused."
+        ],
+        "dont": [
+          "Use overly opinionated, funny, or trendy language.",
+          "Overcomplicate with unnecessary decoration.",
+          "Invent new concepts or terms unless necessary."
+        ],
+        "examples": []
+      },
+      {
+        "title": "Tone",
+        "description": "Tone varies depending on the user’s context and emotional state. It exists on a spectrum from motivational to supportive.",
+        "do": [
+          "Adjust tone based on user needs and emotions.",
+          "Use the tone spectrum to guide appropriate expression.",
+          "Be empathetic and supportive when users are frustrated."
+        ],
+        "dont": [
+          "Use the same tone in every situation.",
+          "Ignore emotional context in critical moments."
+        ],
+        "examples": [
+          {
+            "context": "Motivational",
+            "attitude": "Positive and encouraging",
+            "frequency": "Rarely",
+            "example": "We’re looking out for you and cheering you on. You’ve got this!"
+          },
+          {
+            "context": "Helpful",
+            "attitude": "Polite and respectful",
+            "frequency": "Occasionally",
+            "example": "We know you’re busy, so we’ll make this brief."
+          },
+          {
+            "context": "Instructive",
+            "attitude": "Neutral and direct",
+            "frequency": "Often",
+            "example": "Here is the information you need."
+          },
+          {
+            "context": "Reassuring",
+            "attitude": "Professional and reliable",
+            "frequency": "Occasionally",
+            "example": "We know you’re worried about this issue, and we’re here to help."
+          },
+          {
+            "context": "Supportive",
+            "attitude": "Concerned and empathetic",
+            "frequency": "Rarely",
+            "example": "Something bad has happened and we understand how you feel. We want to inform, guide, and support you through this."
+          }
+        ]
+      }
+    ],
+    "relatedLinks": [
+      {
+        "title": "Adobe Style Guide – Voice",
+        "url": "https://spectrum.corp.adobe.com/page/voice-and-tone/"
+      }
+    ]
+  }
+}

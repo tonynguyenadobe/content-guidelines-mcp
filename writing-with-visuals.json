@@ -1,0 +1,23 @@
+{
+  "model": "ContentGuideline",
+  "version": "1.0",
+  "metadata": {
+    "title": "Writing with Visuals",
+    "url": "https://spectrum.corp.adobe.com/page/writing-with-visuals/",
+    "category": "Foundations",
+    "tags": [
+      "visuals",
+      "UX writing",
+      "content design",
+      "illustration",
+      "icons"
+    ],
+    "lastUpdated": "2025-07-23"
+  },
+  "content": {
+    "summary": "Guidance on how to use visuals effectively in UX writing and content design.",
+    "principles": [],
+    "guidelines": [],
+    "relatedLinks": []
+  }
+}

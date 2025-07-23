@@ -1,0 +1,26 @@
+{
+  "model": "ContentGuideline",
+  "version": "1.0",
+  "metadata": {
+    "title": "Writing for Readability",
+    "url": "https://spectrum.corp.adobe.com/page/writing-for-readability/",
+    "category": "Foundations",
+    "tags": [
+      "readability",
+      "UX writing",
+      "content design"
+    ],
+    "lastUpdated": "2025-07-23"
+  },
+  "content": {
+    "summary": "Guidelines for writing content that is easy to read and understand across Adobe products.",
+    "principles": [],
+    "guidelines": [],
+    "relatedLinks": [
+      {
+        "title": "Writing for Readability \u2013 Spectrum",
+        "url": "https://spectrum.corp.adobe.com/page/writing-for-readability/"
+      }
+    ]
+  }
+}

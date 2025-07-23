@@ -1,0 +1,35 @@
+{
+  "model": "ContentGuideline",
+  "version": "1.0",
+  "metadata": {
+    "title": "Writing for Errors",
+    "url": "https://spectrum.corp.adobe.com/page/writing-for-errors/",
+    "category": "Error Messaging",
+    "tags": [
+      "errors",
+      "UX writing",
+      "content design",
+      "messaging"
+    ],
+    "lastUpdated": "2025-07-23"
+  },
+  "content": {
+    "summary": "Guidelines for writing clear, empathetic, and actionable error messages in Adobe products.",
+    "principles": [],
+    "guidelines": [
+      {
+        "title": "Error Messaging",
+        "description": "Best practices for crafting error messages that help users recover and understand what went wrong.",
+        "do": [],
+        "dont": [],
+        "examples": []
+      }
+    ],
+    "relatedLinks": [
+      {
+        "title": "Spectrum – Writing for Errors",
+        "url": "https://spectrum.corp.adobe.com/page/writing-for-errors/"
+      }
+    ]
+  }
+}

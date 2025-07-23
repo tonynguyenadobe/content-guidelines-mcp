@@ -1,0 +1,36 @@
+{
+  "model": "ContentGuideline",
+  "version": "1.0",
+  "metadata": {
+    "title": "Writing for Onboarding",
+    "url": "https://spectrum.corp.adobe.com/page/writing-for-onboarding/",
+    "category": "Onboarding",
+    "tags": [
+      "onboarding",
+      "UX writing",
+      "content design",
+      "user guidance"
+    ],
+    "lastUpdated": "2025-07-23"
+  },
+  "content": {
+    "summary": "Guidelines for writing onboarding content that helps users get started and feel confident using Adobe products.",
+    "principles": [],
+    "guidelines": [
+      {
+        "title": "Onboarding Content",
+        "description": "Best practices for writing onboarding experiences that are clear, welcoming, and helpful.",
+        "do": [],
+        "dont": [],
+        "examples": []
+      }
+    ],
+    "rawText": "",
+    "relatedLinks": [
+      {
+        "title": "Spectrum – Writing for Onboarding",
+        "url": "https://spectrum.corp.adobe.com/page/writing-for-onboarding/"
+      }
+    ]
+  }
+}

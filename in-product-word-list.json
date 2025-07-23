@@ -1,0 +1,40 @@
+{
+  "model": "ContentGuideline",
+  "version": "1.0",
+  "metadata": {
+    "title": "In-product Word List",
+    "url": "https://spectrum.corp.adobe.com/page/in-product-word-list/",
+    "category": "Language Standards",
+    "tags": [
+      "word list",
+      "terminology",
+      "UX writing",
+      "content design"
+    ],
+    "lastUpdated": "2025-07-23"
+  },
+  "content": {
+    "summary": "A curated list of preferred terms and phrases for use in Adobe products to ensure consistency and clarity.",
+    "principles": [
+      "Use standardized terminology across products.",
+      "Avoid ambiguous or outdated language.",
+      "Ensure words are clear, inclusive, and user-friendly."
+    ],
+    "guidelines": [
+      {
+        "title": "Preferred Terminology",
+        "description": "Use the following terms consistently across product interfaces and documentation.",
+        "do": [],
+        "dont": [],
+        "examples": []
+      }
+    ],
+    "rawText": "",
+    "relatedLinks": [
+      {
+        "title": "Spectrum \u2013 In-product Word List",
+        "url": "https://spectrum.corp.adobe.com/page/in-product-word-list/"
+      }
+    ]
+  }
+}

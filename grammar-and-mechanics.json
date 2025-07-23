@@ -1,0 +1,35 @@
+{
+  "model": "ContentGuideline",
+  "version": "1.0",
+  "metadata": {
+    "title": "Grammar and Mechanics",
+    "url": "https://spectrum.corp.adobe.com/page/grammar-and-mechanics/",
+    "category": "Foundations",
+    "tags": [
+      "grammar",
+      "mechanics",
+      "UX writing",
+      "content design"
+    ],
+    "lastUpdated": "2025-07-23"
+  },
+  "content": {
+    "summary": "Guidelines for grammar and mechanics to ensure clarity, consistency, and professionalism in Adobe product content.",
+    "principles": [],
+    "guidelines": [
+      {
+        "title": "Grammar and Mechanics",
+        "description": "Detailed rules and recommendations for grammar, punctuation, capitalization, and other mechanics of writing.",
+        "do": [],
+        "dont": [],
+        "examples": []
+      }
+    ],
+    "relatedLinks": [
+      {
+        "title": "Adobe Spectrum \u2013 Grammar and Mechanics",
+        "url": "https://spectrum.corp.adobe.com/page/grammar-and-mechanics/"
+      }
+    ]
+  }
+}
