@@ -6,7 +6,17 @@ Welcome to the **Content Guidelines MCP** repository! This knowledge base contai
 
 ## 📁 File Structure
 
-content-guidelines-mcp/ ├── README.md └── guidelines/ ├── voice-and-tone.json ├── grammar-and-mechanics.json ├── inclusive-ux-writing.json ├── writing-about-people.json ├── writing-for-readability.json ├── writing-with-visuals.json ├── in-product-word-list.json ├── writing-for-errors.json └── writing-for-onboarding.json
+content-guidelines-mcp/
+├── README.md
+├── voice-and-tone.json
+├── grammar-and-mechanics.json
+├── inclusive-ux-writing.json
+├── writing-about-people.json
+├── writing-for-readability.json
+├── writing-with-visuals.json
+├── in-product-word-list.json
+├── writing-for-errors.json
+├── writing-for-onboarding.json
 
 ---
 
